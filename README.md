@@ -1,1 +1,1 @@
-# StreamlitSpeechToTesxt
+# StreamlitSpeechToText
